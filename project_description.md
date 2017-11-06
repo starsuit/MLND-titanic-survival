@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>machine-learning/README.md at master · starsuit/machine-learning</title>
+  <title>machine-learning/project_description.md at master · starsuit/machine-learning</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars3.githubusercontent.com/u/22074863?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="starsuit/machine-learning" property="og:title" /><meta content="https://github.com/starsuit/machine-learning" property="og:url" /><meta content="machine-learning - Content for Udacity&#39;s Machine Learning curriculum" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjA3MDM4MzcwOmYxMDY4NGE4NjA1ODFiOTc4MjBjZjkxN2Y1YjM2YzhhMmRhMzA2MWVmODIyNjczNmE0MGM4MjE0MGVmMjdkODI=--11c1c3939f0d5bc79a8acf4da846991a4bd6fdd1">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjA3MDM4MzcwOjkyNWNlNGRjOTMwMGM5Y2RlYjJlY2U3YzBlZWVjYmY2M2E1MTdjNGU3OTIzNmY1NWU1YTFlMWJkMjFmYmNlMDM=--1840cc78c8600fe5ce705b14b821f1e0d14b54ad">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D403:4894:22B8CB:3C9F9C:5A00236D" data-pjax-transient>
+  <meta name="request-id" content="999B:48A3:2668FC:4DC3AF:5A002374" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="D403:4894:22B8CB:3C9F9C:5A00236D" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="22074863" name="octolytics-actor-id" /><meta content="starsuit" name="octolytics-actor-login" /><meta content="d0e329e79125b6b2ceb70646417e01cfb42738f57fd2af942ad1d84c743d423a" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="999B:48A3:2668FC:4DC3AF:5A002374" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="22074863" name="octolytics-actor-id" /><meta content="starsuit" name="octolytics-actor-login" /><meta content="d0e329e79125b6b2ceb70646417e01cfb42738f57fd2af942ad1d84c743d423a" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="starsuit">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZjIwZDYzZjkwMTU3NGE2MTZkNjIxY2VlNzRhMjM3YzQyNGNkN2ZmMWRkZjBjOTkxMjNhZDVlMGJiOTIwNjQ2NXx7InJlbW90ZV9hZGRyZXNzIjoiNS4xNTAuMTAzLjEiLCJyZXF1ZXN0X2lkIjoiRDQwMzo0ODk0OjIyQjhDQjozQzlGOUM6NUEwMDIzNkQiLCJ0aW1lc3RhbXAiOjE1MDk5NTg1MDksImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="ODIxYzc0YzAyZGE1Njk2MDljOTRhYjg3NGY4MTY5Mjc2MTU0YTZhODFjODE1OTliYzA0NzQzYTNjZjAxMjI2Ynx7InJlbW90ZV9hZGRyZXNzIjoiNS4xNTAuMTAzLjEiLCJyZXF1ZXN0X2lkIjoiOTk5Qjo0OEEzOjI2NjhGQzo0REMzQUY6NUEwMDIzNzQiLCJ0aW1lc3RhbXAiOjE1MDk5NTg1MTcsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS">
 
@@ -80,7 +80,7 @@
   <meta content="22074863" name="octolytics-dimension-user_id" /><meta content="starsuit" name="octolytics-dimension-user_login" /><meta content="109670124" name="octolytics-dimension-repository_id" /><meta content="starsuit/machine-learning" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="true" name="octolytics-dimension-repository_is_fork" /><meta content="50450433" name="octolytics-dimension-repository_parent_id" /><meta content="udacity/machine-learning" name="octolytics-dimension-repository_parent_nwo" /><meta content="50450433" name="octolytics-dimension-repository_network_root_id" /><meta content="udacity/machine-learning" name="octolytics-dimension-repository_network_root_nwo" /><meta content="true" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/starsuit/machine-learning/blob/master/projects/titanic_survival_exploration/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/starsuit/machine-learning/blob/master/projects/titanic_survival_exploration/project_description.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -127,7 +127,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/search" class="js-site-search-form" data-scoped-search-url="/starsuit/machine-learning/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/starsuit/machine-learning/blob/master/projects/titanic_survival_exploration/README.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/starsuit/machine-learning/blob/master/projects/titanic_survival_exploration/project_description.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -243,7 +243,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sIKtPQ84U8ul+GLYv5d/tN8Avg4P1FFUzkkge7S/MOGxhs1IVpiw9v8YQieX+tUVollDScuxOl5gHTDXzsZKbA==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="EJ/MuSKaN9m5p/HpqKwgT/1HAzZB7vGhghhuQH7MWMgRm6zMezrU5ONH0RaAwYrugB7+cYWLmqssTH7sBLUiRQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -254,7 +254,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dpArgsG+Y8mPhUY5dV/KKeWGiw8x2dBf43L8nvDQlOR3lEv3mB6A9NVlZsZdMmCImN92SPW8u1VNJuwyiqnuaQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="p/HGwMUjlad6zjuwrLvPjs3EIiOWFh5erDnSuS7rx4ym9aa1nIN2miAuG0+E1mUvsJ3fZFJzdVQCbcIVVJK9AQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -289,7 +289,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="G2VZT/BGL+AJrqiVy4vsMCSpWYhJQ97a2w9nehoqLNOtpoMK8gtLR7rCoVtzht5uUxG2qBRS0MnifYhaJyI2nw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="109670124" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5i1E/byXUIGM0SF0gfCKGcLl5c2hHviGrLRq2u3tuK1Q7p64vto0Jj+9KLo5/bhHtV0K7fwP9pWVxoX60OWi4Q==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="109670124" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/starsuit/machine-learning/subscription"
@@ -369,7 +369,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Wuty1k3ehYsl/u0LVB05GQN2Cnuskb6uBUrIw+AHzie/kjB0fZWdE+oYEVf9oDwRLgc/2sFDneo5ehauiruUsA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9FJ+HGQGWb8P9fu6e1es5vZYWoTZ8BEWzwOIO2Qywf0RKzy+VE1BJ8ATB+bS6qnu2ylvJbQiMlLzM1ZWDo6bag==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -384,7 +384,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="yUGMSuGcfAJt82g0oPEn8+e0VQKavE1adGGkDh+gKjpGMvJaSKk7XVrEY0kresFj1K/jSFiEDExNoa21iOCb6A==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uZEDhphT/4OEmnAomYCKY/rKnagAXDKRfmeD9Wj3IKY24n2WMWa43LOte1USC2zzydEr4sJkc4dHp4pO/7eRdA==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -403,7 +403,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VH8KASflx44qVHojy73s+GZchJHN0J85BjYFKp7Wbbn9ijcTTCqfYjvVH9bdPoyCnmSonrn4QqcPLVDIo0T9lw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="L6M1zARkAGVsPmStA3R+hBIpa9W1eIRbr7kvLrGfBOWGVgjeb6tYiX2/AVgV9x7+6hFH2sFQWcWmonrMjA2Uyw==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -483,9 +483,9 @@
   <div class="repository-content">
 
     
-  <a href="/starsuit/machine-learning/blob/b69ebce8e2645820ef8e0d38ece7306ed7c289b6/projects/titanic_survival_exploration/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/starsuit/machine-learning/blob/b69ebce8e2645820ef8e0d38ece7306ed7c289b6/projects/titanic_survival_exploration/project_description.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:7e8e6f6af1c5962fb62635b7fbe81329 -->
+  <!-- blob contrib key: blob_contributors:v21:558a8accc2888c72f9a2964bc6f41fca -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -527,7 +527,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/starsuit/machine-learning/blob/development/projects/titanic_survival_exploration/README.md"
+               href="/starsuit/machine-learning/blob/development/projects/titanic_survival_exploration/project_description.md"
                data-name="development"
                data-skip-pjax="true"
                rel="nofollow">
@@ -537,7 +537,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/starsuit/machine-learning/blob/master/projects/titanic_survival_exploration/README.md"
+               href="/starsuit/machine-learning/blob/master/projects/titanic_survival_exploration/project_description.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -547,7 +547,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/starsuit/machine-learning/blob/nicky/remove-log-ignore/projects/titanic_survival_exploration/README.md"
+               href="/starsuit/machine-learning/blob/nicky/remove-log-ignore/projects/titanic_survival_exploration/project_description.md"
                data-name="nicky/remove-log-ignore"
                data-skip-pjax="true"
                rel="nofollow">
@@ -557,7 +557,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/starsuit/machine-learning/blob/revert-170-master/projects/titanic_survival_exploration/README.md"
+               href="/starsuit/machine-learning/blob/revert-170-master/projects/titanic_survival_exploration/project_description.md"
                data-name="revert-170-master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -567,7 +567,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/starsuit/machine-learning/blob/smartcab-fix/projects/titanic_survival_exploration/README.md"
+               href="/starsuit/machine-learning/blob/smartcab-fix/projects/titanic_survival_exploration/project_description.md"
                data-name="smartcab-fix"
                data-skip-pjax="true"
                rel="nofollow">
@@ -577,7 +577,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/starsuit/machine-learning/blob/test_normalize/projects/titanic_survival_exploration/README.md"
+               href="/starsuit/machine-learning/blob/test_normalize/projects/titanic_survival_exploration/project_description.md"
                data-name="test_normalize"
                data-skip-pjax="true"
                rel="nofollow">
@@ -588,7 +588,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="WRkxYVvnJeS/pM2KLCX0cPKA/gWNQT6FBavFj+jcWn4QCVMc1CYpbpCmXa1paWlZZzkr5hbpC9jRq+3K7N06Ng==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2AwxsJae0g1yo28+2yvbwpXz+Abxu6ixqSNfzFiuSCGRHFPNGV/eh12h/xmeZ0brAEot5WoTnex9I3eJXK8oaQ==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -596,7 +596,7 @@
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="projects/titanic_survival_exploration/README.md">
+            <input type="hidden" name="path" id="path" value="projects/titanic_survival_exploration/project_description.md">
 </form>
       </div>
 
@@ -623,53 +623,30 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/starsuit/machine-learning"><span>machine-learning</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/starsuit/machine-learning/tree/master/projects"><span>projects</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/starsuit/machine-learning/tree/master/projects/titanic_survival_exploration"><span>titanic_survival_exploration</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/starsuit/machine-learning"><span>machine-learning</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/starsuit/machine-learning/tree/master/projects"><span>projects</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/starsuit/machine-learning/tree/master/projects/titanic_survival_exploration"><span>titanic_survival_exploration</span></a></span><span class="separator">/</span><strong class="final-path">project_description.md</strong>
     </div>
   </div>
 
 
-  
-  <div class="commit-tease">
-      <span class="float-right">
-        <a class="commit-tease-sha" href="/starsuit/machine-learning/commit/e4946315113c688e1764efdc0fdaeaa3318f4d87" data-pjax>
-          e494631
-        </a>
-        <relative-time datetime="2016-09-26T18:55:33Z">Sep 26, 2016</relative-time>
-      </span>
-      <div>
-        <img alt="" class="avatar" data-canonical-src="https://0.gravatar.com/avatar/84502e3fd119f367f810ef2a8c9655f0?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=x&amp;s=140" height="20" src="https://camo.githubusercontent.com/8884f84bb76e7110fc6af39f21002f7441b83d17/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f38343530326533666431313966333637663831306566326138633936353566303f643d68747470732533412532462532466173736574732d63646e2e6769746875622e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d7826733d313430" width="20" />
-        <span class="user-mention">Jared Weed</span>
-          <a href="/starsuit/machine-learning/commit/e4946315113c688e1764efdc0fdaeaa3318f4d87" class="message" data-pjax="true" title="Project definitions update">Project definitions update</a>
-      </div>
+  <include-fragment class="commit-tease" src="/starsuit/machine-learning/contributors/master/projects/titanic_survival_exploration/project_description.md">
+    <div>
+      Fetching contributors&hellip;
+    </div>
 
     <div class="commit-tease-contributors">
-      <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
-        <strong>1</strong>
-         contributor
-      </button>
-      
+      <img alt="" class="loader-loading float-left" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
     </div>
-
-    <div id="blob_contributors_box" style="display:none">
-      <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
-      <ul class="facebox-user-list" data-facebox-id="facebox-description">
-          <li class="facebox-user-list-item">
-            <img alt="@rigved" height="24" src="https://avatars2.githubusercontent.com/u/6945308?s=48&amp;v=4" width="24" />
-            <a href="/rigved">rigved</a>
-          </li>
-      </ul>
-    </div>
-  </div>
-
+</include-fragment>
 
   <div class="file">
     <div class="file-header">
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/starsuit/machine-learning/raw/master/projects/titanic_survival_exploration/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/starsuit/machine-learning/blame/master/projects/titanic_survival_exploration/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/starsuit/machine-learning/commits/master/projects/titanic_survival_exploration/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/starsuit/machine-learning/raw/master/projects/titanic_survival_exploration/project_description.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/starsuit/machine-learning/blame/master/projects/titanic_survival_exploration/project_description.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/starsuit/machine-learning/commits/master/projects/titanic_survival_exploration/project_description.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -679,12 +656,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/edit/master/projects/titanic_survival_exploration/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Hf6APPxfll45iSHrrIQ4AMPhnftbPJkTA1M3rzvGHpu7d1XmMcdqGjjJUVG13S1L0fYylKdqyaFVtjP8pehoFw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/edit/master/projects/titanic_survival_exploration/project_description.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2+xx96dzrbcOCJgn59/15UOxiooLvcVfKkouCypFbLJ9EREznky9NAAgS1umADhmS1K5IRaDtYehnJVkbFOejg==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/delete/master/projects/titanic_survival_exploration/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="USDn2dls2ZsMtFLvrmHe0dglI3u+cmRE7Assy3C3PWObAbtoljwBVmYBsBYqNgoT4qT1gtgAXKpAuAeOLQ1qxg==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/starsuit/machine-learning/delete/master/projects/titanic_survival_exploration/project_description.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HwF1PKuyDaWuCmsWrSmk9UmMKLBDFCuyxn3SvvuE5bj/xon8njsQ1yD6lbFyc1tEWcmUvYs+DPU1wtnDndUbvA==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -692,54 +669,56 @@
 </form>  </div>
 
   <div class="file-info">
-      53 lines (38 sloc)
+      57 lines (36 sloc)
       <span class="file-info-divider"></span>
-    2.29 KB
+    5.42 KB
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a href="#machine-learning-engineer-nanodegree" aria-hidden="true" class="anchor" id="user-content-machine-learning-engineer-nanodegree"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Machine Learning Engineer Nanodegree</h1>
-<h2><a href="#introduction-and-foundations" aria-hidden="true" class="anchor" id="user-content-introduction-and-foundations"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Introduction and Foundations</h2>
+    <article class="markdown-body entry-content" itemprop="text"><h2><a href="#content-introduction-and-foundations" aria-hidden="true" class="anchor" id="user-content-content-introduction-and-foundations"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Content: Introduction and Foundations</h2>
 <h2><a href="#project-titanic-survival-exploration" aria-hidden="true" class="anchor" id="user-content-project-titanic-survival-exploration"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project: Titanic Survival Exploration</h2>
-<h3><a href="#install" aria-hidden="true" class="anchor" id="user-content-install"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Install</h3>
-<p>This project requires <strong>Python 2.7</strong> and the following Python libraries installed:</p>
+<h2><a href="#project-overview" aria-hidden="true" class="anchor" id="user-content-project-overview"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project Overview</h2>
+<p>Welcome to the Machine Learning Engineer Nanodegree!</p>
+<p>In this <em><strong>optional</strong></em> project, you will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger's features, such as sex and age. You will start with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce you to some of the concepts of machine learning as you start the Nanodegree program.</p>
+<p>In addition, you'll make sure Python is installed with the necessary packages to complete this project. There are two Python libraries, <code>numpy</code> and <code>pandas</code>, that we'll use a bit here in this project. Don't worry about how these libraries work for now -- we'll get to them in more detail in later projects. This project will also familiarize you with the submission process for the projects that you will be completing as part of the Nanodegree program.</p>
+<h2><a href="#software-requirements" aria-hidden="true" class="anchor" id="user-content-software-requirements"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Software Requirements</h2>
+<p>This project uses the following software and Python libraries:</p>
 <ul>
+<li><a href="https://www.python.org/download/releases/2.7/">Python 2.7</a></li>
 <li><a href="http://www.numpy.org/">NumPy</a></li>
-<li><a href="http://pandas.pydata.org">Pandas</a></li>
+<li><a href="http://pandas.pydata.org/">pandas</a></li>
 <li><a href="http://matplotlib.org/">matplotlib</a></li>
-<li><a href="http://scikit-learn.org/stable/">scikit-learn</a></li>
 </ul>
-<p>You will also need to have software installed to run and execute a <a href="http://ipython.org/notebook.html">Jupyter Notebook</a></p>
+<p>You will also need to have software installed to run and execute a <a href="http://ipython.org/notebook.html">Jupyter Notebook</a>.</p>
 <p>If you do not have Python installed yet, it is highly recommended that you install the <a href="http://continuum.io/downloads">Anaconda</a> distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.</p>
-<h3><a href="#code" aria-hidden="true" class="anchor" id="user-content-code"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Code</h3>
-<p>Template code is provided in the notebook <code>titanic_survival_exploration.ipynb</code> notebook file. Additional supporting code can be found in <code>visuals.py</code>. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in <code>visuals.py</code> is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.</p>
-<h3><a href="#run" aria-hidden="true" class="anchor" id="user-content-run"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Run</h3>
-<p>In a terminal or command window, navigate to the top-level project directory <code>titanic_survival_exploration/</code> (that contains this README) and run one of the following commands:</p>
-<div class="highlight highlight-source-shell"><pre>jupyter notebook titanic_survival_exploration.ipynb</pre></div>
-<p>or</p>
-<div class="highlight highlight-source-shell"><pre>ipython notebook titanic_survival_exploration.ipynb</pre></div>
-<p>This will open the Jupyter Notebook software and project file in your web browser.</p>
-<h3><a href="#data" aria-hidden="true" class="anchor" id="user-content-data"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Data</h3>
-<p>The dataset used in this project is included as <code>titanic_data.csv</code>. This dataset is provided by Udacity and contains the following attributes:</p>
-<p><strong>Features</strong></p>
+<p>If you already have Python 2.7 installed on your computer, then you can install <code>numpy</code>, <code>pandas</code>, <code>matplotlib</code> and Jupyter Notebook (formerly known as "iPython") by using <a href="https://pip.pypa.io/en/stable/">pip</a> on the command line. <a href="http://www.lfd.uci.edu/%7Egohlke/pythonlibs/">This page</a> may also be of use for some packages for Windows users, if pip has trouble performing the installation. After installing pip, you can install all the packages with the following command:</p>
+<p><code>sudo pip install numpy pandas matplotlib jupyter</code></p>
+<h2><a href="#starting-the-project" aria-hidden="true" class="anchor" id="user-content-starting-the-project"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Starting the Project</h2>
+<p>For this assignment, you can find the <code>titanic_survival_exploration</code> folder containing the necessary project files on the <a href="https://github.com/udacity/machine-learning">Machine Learning projects GitHub</a>, under the <code>projects</code> folder. You may download all of the files for projects we'll use in this Nanodegree program directly from this repo. Please make sure that you use the most recent version of project files when completing a project!</p>
+<p>This project contains three files:</p>
 <ul>
-<li><code>pclass</code> : Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)</li>
-<li><code>name</code> : Name</li>
-<li><code>sex</code> : Sex</li>
-<li><code>age</code> : Age</li>
-<li><code>sibsp</code> : Number of Siblings/Spouses Aboard</li>
-<li><code>parch</code> : Number of Parents/Children Aboard</li>
-<li><code>ticket</code> : Ticket Number</li>
-<li><code>fare</code> : Passenger Fare</li>
-<li><code>cabin</code> : Cabin</li>
-<li><code>embarked</code> : Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)</li>
+<li><code>titanic_survival_exploration.ipynb</code>: This is the main file where you will be performing your work on the project.</li>
+<li><code>titanic_data.csv</code>: The project dataset. You?ll load this data in the notebook.</li>
+<li><code>visuals.py</code>: This Python script provides supplementary visualizations for the project. Do not modify.</li>
 </ul>
-<p><strong>Target Variable</strong></p>
+<p>In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command <code>jupyter notebook titanic_survival_exploration.ipynb</code> to open up a browser window or tab to work with your notebook. Alternatively, you can use the command <code>jupyter notebook</code> or <code>ipython notebook</code> and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A <strong>README</strong> file has also been provided with the project files which may contain additional necessary information or instruction for the project.</p>
+<h2><a href="#submitting-the-project" aria-hidden="true" class="anchor" id="user-content-submitting-the-project"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submitting the Project</h2>
+<h3><a href="#evaluation" aria-hidden="true" class="anchor" id="user-content-evaluation"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Evaluation</h3>
+<p>Your project will be reviewed by a Udacity reviewer against the <strong><a href="https://review.udacity.com/#!/rubrics/147/view"> Titanic Survival Exploration project rubric</a></strong>. Be sure to review this rubric thoroughly and self-evaluate your project before submission. All criteria found in the rubric must be <em>meeting specifications</em> for you to pass.</p>
+<h3><a href="#submission-files" aria-hidden="true" class="anchor" id="user-content-submission-files"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submission Files</h3>
+<p>When you are ready to submit your project, collect the following files and compress them into a single archive for upload. Alternatively, you may supply the following files on your GitHub Repo in a folder named <code>titanic_survival_exploration</code> for ease of access:</p>
 <ul>
-<li><code>survival</code> : Survival (0 = No; 1 = Yes)</li>
+<li>The <code>titanic_survival_exploration.ipynb</code> notebook file with all questions answered and all code cells executed and displaying output.</li>
+<li>An <strong>HTML</strong> export of the project notebook with the name <strong>report.html</strong>. Instructions for exporting to HTML are at the bottom of the notebook; you may need to install the <a href="https://pypi.python.org/pypi/mistune">mistune</a> package first, e.g. via <code>pip install mistune</code> in the terminal.</li>
 </ul>
+<p>Once you have collected these files and reviewed the project rubric, proceed to the project submission page.</p>
+<h3><a href="#im-ready" aria-hidden="true" class="anchor" id="user-content-im-ready"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>I'm Ready!</h3>
+<p>When you're ready to submit your project, click on the <strong>Submit Project</strong> button at the bottom of the page.</p>
+<p>If you are having any problems submitting your project or wish to check on the status of your submission, please email us at <strong><a href="mailto:machine-support@udacity.com">machine-support@udacity.com</a></strong> or visit us in the <a href="http://discussions.udacity.com">discussion forums</a>.</p>
+<h3><a href="#whats-next" aria-hidden="true" class="anchor" id="user-content-whats-next"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What's Next?</h3>
+<p>You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!</p>
 </article>
   </div>
 
@@ -765,7 +744,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2017 <span title="0.17390s from unicorn-3111156349-4njr8">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2017 <span title="0.17463s from unicorn-4062083709-vwncl">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
